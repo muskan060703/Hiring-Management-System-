@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Byte-compiled
+*.pyc
